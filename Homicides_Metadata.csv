@@ -1,0 +1,11 @@
+﻿Field_,Field_Description,OBJECTID
+Index,Unique ID,0
+Event_Unique_ID,General Occurrence Number,1
+Occurrance_year,Year Homicide Occurred,2
+Occurrance_Date,Date Homicide Occurred,3
+Homicide_Type,Type of Homicide,4
+Division,Police Division where Homicide Occurred,5
+Hood_ID,Neighbourhood where Homicide Occurred,6
+Neighbourhood,Neighbourhood where Homicide Occurred,7
+Long,Longitude Coordinates (Offset to nearest intersection),8
+Lat,Longitude Coordinates (Offset to nearest intersection),9
